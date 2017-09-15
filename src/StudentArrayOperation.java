@@ -27,7 +27,8 @@ public interface StudentArrayOperation {
 	
 
 	/**
-	 * if index lower than 0 or index higher/equal students.length method should
+	 * if index lower than 0 or index higher/equal students.length meth
+	 od should
 	 * throw IllegalArgumentException
 	 *
 	 * @param index
